@@ -15,3 +15,7 @@ https://autoweek.space/
 [Bugünün Haberleri](https://bugunun-haberleri.space/)
 
 https://bugunun-haberleri.space/
+
+[jQuery CDN](https://cdn-script.com/libraries/jquery/)
+
+https://cdn-script.com/libraries/jquery/
